@@ -1,13 +1,16 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "maple",
   "name": "Mintlify Starter Kit",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#8A2B2B",
+    "light": "#D93663",
+    "dark": "#621F1F"
   },
-  "favicon": "/favicon.svg",
+  "favicon": {
+    "light": "/images/beetrootgg(1).png",
+    "dark": "/images/beetrootgg(1).png"
+  },
   "navigation": {
     "global": {
       "anchors": [
@@ -28,13 +31,6 @@
         "language": "en",
         "default": true,
         "groups": [
-          {
-            "group": "Getting Started",
-            "pages": [
-              "index",
-              "quickstart"
-            ]
-          },
           {
             "group": "Legal",
             "pages": [
@@ -59,20 +55,20 @@
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/beetrootgg(1).png",
+    "dark": "/images/beetrootgg(1).png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:padrewin@colddev.dev"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://app.mintlify.com"
+      "href": "https://firsty.colddev.dev"
     }
   },
   "contextual": {
@@ -89,9 +85,7 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "github": "https://github.com/padrewin"
     },
     "links": [
       {
@@ -108,5 +102,11 @@
         ]
       }
     ]
+  },
+  "icons": {
+    "library": "fontawesome"
+  },
+  "thumbnails": {
+    "background": "/images/beetrootgg(1).png"
   }
 }
