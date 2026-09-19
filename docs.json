@@ -8,24 +8,10 @@
     "dark": "#621F1F"
   },
   "favicon": {
-    "light": "/images/beetrootgg(1).png",
-    "dark": "/images/beetrootgg(1).png"
+    "light": "/images/firstybot.png",
+    "dark": "/images/firstybot.png"
   },
   "navigation": {
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    },
     "languages": [
       {
         "language": "en",
@@ -55,8 +41,8 @@
     ]
   },
   "logo": {
-    "light": "/images/beetrootgg(1).png",
-    "dark": "/images/beetrootgg(1).png"
+    "light": "/images/firstybot.png",
+    "dark": "/images/firstybot.png"
   },
   "navbar": {
     "links": [
@@ -107,6 +93,6 @@
     "library": "fontawesome"
   },
   "thumbnails": {
-    "background": "/images/beetrootgg(1).png"
+    "background": "/images/firstybot.png"
   }
 }
